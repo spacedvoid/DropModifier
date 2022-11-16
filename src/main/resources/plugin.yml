@@ -1,0 +1,5 @@
+name: drop-modifier
+version: '1.0'
+main: net.spacedvoid.DropModifier
+api-version: 1.19
+prefix: DropModifier
