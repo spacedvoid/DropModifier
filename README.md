@@ -1,7 +1,5 @@
 # Drop Modifier
 
----
-
 플레이어가 죽었을 때 드랍할 아이템의 목록을 설정합니다.
 
 `config.yml` 에 `included`와 `excluded`, 두 개의 키가 있습니다.
